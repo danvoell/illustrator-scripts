@@ -1,5 +1,5 @@
 # illustrator-scripts
-A set up of scripts I use for Illustrator for pre-press and print automation
+A set up of scripts I use for Illustrator for pre-press and print automation. My set up is Illustrator -> Direct Cut -> Allen Datagraph CentraHS
 
 squares3.jsx adds .25" black squares to the corner of your artboard. I use it for registration marks on my die cutter.
 
