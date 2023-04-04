@@ -6,3 +6,5 @@ squares3.jsx adds .25" black squares to the corner of your artboard. I use it fo
 magenta.jsx adds magenta lines in the top left top right and bottom left corners. Again the lines are used for registration and cut during production.
 
 To use these files download, open Adobe Illustrator, Run Files-> Scripts -> Other Scripts and voila auto boxes and auto lines.
+
+If you need any custom illustrator scripts for design, printing, die cutting feel free to reach out dan@midwestlabelsupply.com 
