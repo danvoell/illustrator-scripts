@@ -41,5 +41,9 @@
 
     border.resize((newWidth / border.width) * 100, (newHeight / border.height) * 100);
     border.translate(deltaX, -deltaY);
-    border.zOrder(ZOrderMethod.BRINGTOFRONT);
+
+    // Create a new layer called "die" and move the border under the new layer
+    var dieLayer = app.activeDocument.layers.add();
+    dieLayer.name = "die";
+    border.move(dieLayer, ElementPlacement.PLACEATBEGINNING);
 })();
