@@ -5,7 +5,10 @@ A set up of scripts I use for Illustrator for pre-press and print automation. My
 
 *magenta.jsx* adds magenta lines in the top left top right and bottom left corners of the artboard. Again the lines are used for registration and cut during production.
 
-*outline2.jsx* creates a dieline for the selected image. The dieline is 95% of the size of the image and shows up off-center. This one could use some work (centering - using bleed (-.125" cutlines) instead of a fixed %, if anyone wants to try. 
+*outline2.jsx* creates a dieline for the selected image. The dieline is 95% of the size of the image and shows up off-center. This one could use some work (centering - using bleed in terms of auto-placing the bleed if anyone wants to try. 
+
+*outline-.125inch-bleed.jsx* creates a dieline for the selected image with a .125 inch bleed on all sides but it shows up off-center. This one could use some work (centering) in terms of auto-placing the die cut line if anyone wants to try. 
+
 
 To use these files download, open Adobe Illustrator, Run Files-> Scripts -> Other Scripts and voila auto boxes and auto lines.
 
